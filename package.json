@@ -1,5 +1,5 @@
 {
-  "name": "@valdio/react-native-scrollable-tabview",
+  "name": "@Valentin-viseo/react-native-scrollable-tabview",
   "version": "0.8.12",
   "description": "",
   "main": "lib/index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/valdio/react-native-scrollable-tabview.git"
+    "url": "git+https://github.com/Valentin-viseo/react-native-scrollable-tabview.git"
   },
   "keywords": [
     "react-native-component",
